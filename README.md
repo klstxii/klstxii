@@ -5,7 +5,7 @@
 :eyeglasses: GEEKY(ish)  
 :video_game: Above-Average Casual Gamer  
 :badminton: Non-Competitive Sporty Guy   
-:cityscape: a little bit Adventurous    
+:cityscape: a little bit Adventurous (in tagalog, _medyo lakwatsero_)    
 :tv: Just an Average Weeb.  
 
 
