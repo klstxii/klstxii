@@ -1,13 +1,9 @@
-# 💫 Yoohoo! It's me, Ki to the Yo to the Haru!!
+<h1 align="center">Hi 👋, It's me, Kiyo!</h1>
+<h3 align="center">A passionate developer & innovative engineer from the Philippines</h3>
 
-:mortar_board: Computer Engineering Graduate @/HAU  
-:computer: Tech Enthusiast:sparkles:  
-:eyeglasses: GEEKY(ish)  
-:video_game: Above-Average Casual Gamer  
-:badminton: Non-Competitive Sporty Guy   
-:cityscape: a little bit Adventurous (in tagalog, _medyo lakwatsero_)    
-:tv: Just an Average Weeb.  
+- :mortar_board: Computer Engineering Graduate @/HAU
 
+- 📄 Know about my experiences [https://kiyosarmiento.jobs180.com/](https://kiyosarmiento.jobs180.com/)  
 
 ## 💾 Some Snippets:
 [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/klstxii) 
@@ -24,3 +20,9 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
+
+
+
