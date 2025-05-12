@@ -12,7 +12,7 @@
 ## 💾 Some Snippets:
 [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/klstxii) 
 
-## 📧 Contact:
+## 📫 How to reach me:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kiyoharusarmiento@gmail.com)  
 
 # 💻 Tech Stack:
