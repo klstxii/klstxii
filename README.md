@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, It's me, Kiyo!</h1>
 <h3 align="center">A passionate developer & innovative engineer from the Philippines</h3>
 
-- :mortar_board: Computer Engineering Graduate @/HAU
+- :mortar_board: Computer Engineering Graduate
 
 - 📄 Know about my experiences [https://kiyosarmiento.jobs180.com/](https://kiyosarmiento.jobs180.com/)  
 
