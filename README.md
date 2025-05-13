@@ -21,6 +21,8 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=klstxii&theme=dark" alt="klstxii" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=klstxii&show_icons=true&theme=onedark&title_color=fff4d8&text_color=fff4d8&hide_border=true&cache_seconds=1800&locale=en&layout=compact" alt="klstxii" /></p>
+<p align="center"></p>
 
 
 
