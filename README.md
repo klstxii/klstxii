@@ -2,6 +2,10 @@
 <h3 align="center">A passionate developer & innovative engineer from the Philippines</h3>
 
 - :mortar_board: Computer Engineering Graduate
+  
+- 🌱 I’m currently learning **vue, mobile dev, & IoT**
+
+- 👨‍💻 All of my projects are available at (coming soon)
 
 - 📄 Know about my experiences [https://kiyosarmiento.jobs180.com/](https://kiyosarmiento.jobs180.com/)  
 
